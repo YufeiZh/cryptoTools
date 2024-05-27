@@ -7,6 +7,8 @@ This is a toolkit of undergrad math class Cryptography. Created mainly for UCSC 
 # Table of Content
 [Frequency Analysis Tool](FreqAnalysis.ipynb)
 
+[Primality Test](primality_test.ipynb)
+
 # Finely Tuned GPT Tool for Cryptography (externel):
 [Crypto Learner](https://chat.openai.com/g/g-fiOFupmtk-crypto-learner)
 
